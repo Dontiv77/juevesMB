@@ -1,0 +1,20 @@
+/*imagen de fondo en el index*/
+.fakeimg {
+    height: 200px;
+    background: rgb(82, 77, 182);
+    }
+
+.jumbotron {
+    text-align: center; color: aliceblue; 
+    margin-bottom: 0%;
+    background-image: url(../assets/Images/FondoHeader/fotografo1.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    }
+.imagenfooter {
+    background-color: #212529;
+    font-size: 15px; color: aliceblue; 
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
